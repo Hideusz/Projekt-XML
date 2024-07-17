@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file://C:/Users/artur/Desktop/Lab4/K02_Klatka_Artur.xsl"?>
+ 
+<olimp>
+    <bogowie id="1">
+        <imię>Afrodyta</imię>
+        <wystepowanie>mitologia grecka</wystepowanie>
+        <atrybuty>rydwan zaprzężony w gołębie, róża, mirt</atrybuty>
+        <odpowiednik>Wenus (rzymski)</odpowiednik>
+        <zdjecie>zdjecia/afrodyta.jpg</zdjecie>
+        <rodzina>
+            <małżonek>Hefajstos</małżonek>
+            <dzieci>Dejmos, Fobos, Harmonia, Eros, Anteros</dzieci>
+        </rodzina>
+        
+    </bogowie>
+
+    <bogowie id="2">
+        <imię>Apollo</imię>
+        <wystepowanie>mitologia grecka, mitologia rzymska</wystepowanie>
+        <atrybuty>lira</atrybuty>
+        <odpowiednik>Apollo (w mitologii rzymskiej)</odpowiednik>
+        <zdjecie>zdjecia/apollo.jpg</zdjecie>
+        <rodzina>
+            <małżonek>Brak informacji</małżonek>
+            <dzieci>Doros, Orfeusz, Asklepios, Aristajos, korybanci</dzieci>
+        </rodzina>
+    </bogowie>
+
+    <bogowie id="3">
+        <imię>Ares</imię>
+        <wystepowanie>mitologia grecka</wystepowanie>
+        <atrybuty>miecz, zbroja i tarcza</atrybuty>
+        <odpowiednik>Mars (rzymski)</odpowiednik>
+        <zdjecie>zdjecia/ares.jpg</zdjecie>
+        <rodzina>
+            <małżonek>Brak informacji</małżonek>
+            <dzieci>Eros, Anteros, Dejmos, Fobos, Harmonia</dzieci>
+        </rodzina>
+    </bogowie>
+
+    <bogowie id="4">
+        <imię>Artemida</imię>
+        <wystepowanie>mitologia grecka</wystepowanie>
+        <atrybuty>łuk, strzały i kołczan</atrybuty>
+        <odpowiednik>Diana (rzymski)</odpowiednik>
+        <zdjecie>zdjecia/artemida.jpg</zdjecie>
+        <rodzina>
+            <małżonek>Brak informacji</małżonek>
+            <dzieci>Brak informacji</dzieci>
+        </rodzina>
+    </bogowie>
+
+    <bogowie id="5">
+        <imię>Atena</imię>
+        <wystepowanie>mitologia grecka</wystepowanie>
+        <atrybuty>włócznia, tarcza,sowa i łuk</atrybuty>
+        <odpowiednik>Minerwa (rzymski)</odpowiednik>
+        <zdjecie>zdjecia/atena.jpg</zdjecie>
+        <rodzina>
+            <małżonek>Brak informacji</małżonek>
+            <dzieci>Brak informacji</dzieci>
+        </rodzina>
+    </bogowie>
+
+    <bogowie id="6">
+        <imię>Hades</imię>
+        <wystepowanie>mitologia grecka</wystepowanie>
+        <atrybuty>berło i klucze</atrybuty>
+        <odpowiednik>Pluton (rzymski)</odpowiednik>
+        <zdjecie>zdjecia/hades.jpg</zdjecie>
+        <rodzina>
+            <małżonek>Persefona</małżonek>
+            <dzieci>Makaria</dzieci>
+        </rodzina>
+    </bogowie>
+    <bogowie id="7">
+        <imię>Hefajstos</imię>
+        <wystepowanie>mitologia grecka</wystepowanie>
+        <atrybuty>Młot i kowadło</atrybuty>
+        <odpowiednik>Wulkan (rzymski)</odpowiednik>
+        <zdjecie>zdjecia/hefajstos.jpg</zdjecie>
+        <rodzina>
+            <małżonek>Afrodyta</małżonek>
+            <dzieci>Brak informacji</dzieci>
+        </rodzina>
+    </bogowie>
+
+    <bogowie id="8">
+        <imię>Hera</imię>
+        <wystepowanie>mitologia grecka</wystepowanie>
+        <atrybuty>pawie, owoc granatu</atrybuty>
+        <odpowiednik>Junona (rzymski)</odpowiednik>
+        <zdjecie>zdjecia/hera.jpg</zdjecie>
+        <rodzina>
+            <małżonek>Brak informacji</małżonek>
+            <dzieci>Hermafrodyta, Pan i wiele innych</dzieci>
+        </rodzina>
+    </bogowie>
+
+    <bogowie id="9">
+        <imię>Hermes</imię>
+        <wystepowanie>mitologia grecka</wystepowanie>
+        <atrybuty>kaduceusz, podróżny kapelusz ze skrzydłami – petasos, sandały ze skrzydłami</atrybuty>
+        <odpowiednik>Merkury (rzymski)</odpowiednik>
+        <zdjecie>zdjecia/hermes.jpg</zdjecie>
+        <rodzina>
+            <małżonek>Zeus</małżonek>
+            <dzieci>Ares, Hefajstos, Hebe, Ejlejtyja</dzieci>
+        </rodzina>
+    </bogowie>
+
+    <bogowie id="10">
+        <imię>Hestia</imię>
+        <wystepowanie>mitologia grecka</wystepowanie>
+        <atrybuty>pochodnia i ognisko</atrybuty>
+        <odpowiednik>Westa (rzymski)</odpowiednik>
+        <zdjecie>zdjecia/hestia.jpg</zdjecie>
+        <rodzina>
+            <małżonek>Brak informacji</małżonek>
+            <dzieci>Brak informacji</dzieci>
+        </rodzina>
+    </bogowie>
+
+    <bogowie id="11">
+        <imię>Posejdon</imię>
+        <wystepowanie>mitologia grecka</wystepowanie>
+        <atrybuty>trójząb</atrybuty>
+        <odpowiednik>Neptun (rzymski)</odpowiednik>
+        <zdjecie>zdjecia/posejdon.jpg</zdjecie>
+        <rodzina>
+            <małżonek>Amfitryta</małżonek>
+            <dzieci>Tryton, Rode, Bentesikyme, Anteusz, Herofilos, Rodos, Chryzaor, Orion, Polifem, Nauplios, Koronos, Tezeusz, Agenor, Belos, Neleus, Pelias, Megareus, Prokrustes, Kymopoleja</dzieci>
+        </rodzina>
+    </bogowie>
+
+    <bogowie id="12">
+        <imię>Zeus</imię>
+        <wystepowanie>mitologia grecka</wystepowanie>
+        <atrybuty>piorun, orzeł, dąb, tarcza egida</atrybuty>
+        <odpowiednik>Jowisz (rzymski)</odpowiednik>
+        <zdjecie>zdjecia/zeus.jpg</zdjecie>
+        <rodzina>
+            <małżonek>Hera</małżonek>
+            <dzieci>Atena, Hermes, Hebe, Ejlejtyja, Hefajstos, Ares, Artemida, Apollo, Herakles, Perseusz, Litai, Dionizos, Persefona</dzieci>
+        </rodzina>
+    </bogowie>
+</olimp>
